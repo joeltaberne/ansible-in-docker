@@ -1,4 +1,4 @@
-# alpine-docker-ansible
+# Ansible in docker !
 Ansible testing environment based in alpine docker images.
 
 The main purpose of this project is being able to test Ansible modules and playbooks with as many targets as we want, and making it light, fast and simple.
