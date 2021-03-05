@@ -1,0 +1,6 @@
+version: "3.3"
+services:
+  controller:
+    image: joeltf99/alpine-ansible-controller
+  target:
+    image: joeltf99/alpine-ansible-target
